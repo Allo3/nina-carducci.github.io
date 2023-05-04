@@ -108,6 +108,9 @@ body {
 .nav-pills .nav-link {
 	color: #000
 }
+.nav-item { 
+	cursor: pointer;
+}
 .item-column {
 	position: relative;
 	margin-bottom: 0 !important;
@@ -188,6 +191,7 @@ body {
 	flex-direction: column;
 	justify-content: space-between;
 	z-index: 1;
+	
 }
 
 #contact {
